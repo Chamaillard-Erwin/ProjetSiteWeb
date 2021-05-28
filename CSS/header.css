@@ -1,0 +1,31 @@
+header{
+    background-color: rgba(13, 13, 14, 0.920);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    justify-content: space-between;
+
+}
+
+header > h1 {
+    font-size: 3em;
+    color: white;
+    margin-left: 10%;
+}
+
+header > nav {
+    margin-right: 10%;
+}
+
+header > nav > a {
+    /*border:  2px solid red;*/
+    font-size: 1.7em;
+    padding: 0px 30px 0px 30px;
+    text-decoration: unset;
+    color: wheat;
+}
+
+
+
+

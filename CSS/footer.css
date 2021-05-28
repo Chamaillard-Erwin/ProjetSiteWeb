@@ -1,0 +1,34 @@
+
+footer{
+    background-color: rgba(24, 24, 26, 0.920);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+footer > div {
+    /*border:  2px solid blue;*/
+    display: flex;
+    align-items: center;
+    font-size: 2em;
+    color: white;
+}
+
+footer > div > nav {
+    /*border:  2px solid red;*/
+    margin-left: 50px;
+    display: flex;
+
+}
+
+footer > div > nav > a {
+    /*border: 2px solid yellow;*/
+    display: flex;
+    padding: 0px 20px 0px 20px;
+}
+
+
+
+footer > div > nav > a > img {
+    /*border: 2px solid green;*/
+}
